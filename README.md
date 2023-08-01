@@ -21,7 +21,7 @@ Before running the project, make sure you have the following installed:
 ## Installation
 
 1. Clone this repository to your local machine or download it as a ZIP file.
-2. Create a MySQL database and table using the provided `db.sql` script.
+2. Create a MySQL database and table using the provided `todolist.sql` script.
 3. Update the database connection settings in `config.php` to match your database credentials.
 
 ## Usage
